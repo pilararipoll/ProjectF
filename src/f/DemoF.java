@@ -8,7 +8,9 @@ public class DemoF {
 		System.out.println("Java is fun");
 		
 		System.out.println ("FRIDAY...")
-		
+
+// GREAT JOB, YOU ARE THE BEST 
+			
 	}
 
 }
