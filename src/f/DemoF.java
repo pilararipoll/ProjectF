@@ -7,6 +7,8 @@ public class DemoF {
 		
 		System.out.println("Java is fun");
 		
+		System.out.println ("FRIDAY...")
+		
 	}
 
 }
