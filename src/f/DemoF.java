@@ -10,6 +10,8 @@ public class DemoF {
 		System.out.println ("FRIDAY...")
 
 // GREAT JOB, YOU ARE THE BEST 
+
+			System.out.println ("I'm happY...")
 			
 	}
 
